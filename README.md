@@ -52,11 +52,3 @@ These dashboards help Spotify uncover:
 - **Power BI**
 - **DAX for KPI calculations**
 
-
-## 📎 Demo
-🔗 [Include a link to your dashboard or video demo if available]  
-📁 [Include a folder or sample dataset if allowed]
-
----
-
-Let me know if you'd like a `README.md` file version or help uploading this to your GitHub repo!
